@@ -16,6 +16,7 @@ Este projeto é uma API criada com FastAPI para recomendação de produtos basea
 - **Pydantic**
 - **Uvicorn** (para rodar o servidor)
 - **Pytest** (para testes automatizados)
+- **Black Formatter**
 
 ## Instalação e Configuração
 
